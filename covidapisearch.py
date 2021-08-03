@@ -6,7 +6,8 @@ from url import Url
 
 def PrintMenu(): 
     print('Covid Api Serch - Este programa busca dados atualizados sobre o avanço do coronavírus')
-    print('VERSÃO ALPHA')
+    print('Versão ALPHA')
+    print('*caso encontre algum bug, por favor abra um Issue no github*')
 
 def Content(wdata):
     i = 0

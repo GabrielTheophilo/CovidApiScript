@@ -24,4 +24,8 @@
 
  6 - O script gerará um arquivo em texto(.txt) ou em json(.json) no seu desktop ou na pasta do seu script
 
+ # Requisitos
+ É necessário um interpretador de Python 3.x.x para rodar este arquivo
+ (Um arquivo .exe será disponibilizado em breve para a comodidade dos usuários)
+
 Tenha uma boa pesquisa, fique seguro e use máscara
