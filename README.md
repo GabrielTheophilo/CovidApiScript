@@ -1,5 +1,5 @@
 <h1 align="center"> CovidApiScript </h1>
-<h2 align="center">Script para carregar dados recentes sobre o Coronavírus. O script traz dados globais mas permite que o usuário refine a pesquisa para encontrar dados de um país em específico</h2>
+<h3 align="center">Script para carregar dados históricos ou os mais atualizados sobre o Coronavírus. O script traz dados globais mas permite que o usuário refine a pesquisa para encontrar dados de um país em específico</h3>
 
 ###
 
