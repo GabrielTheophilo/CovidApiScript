@@ -1,5 +1,5 @@
 class ApiKey:
-    ApiKey = "INSIRA SUA CHAVE AQUI"
+    ApiKey = "SUA CHAVE AQUI"
 
     
 
