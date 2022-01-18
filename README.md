@@ -1,31 +1,30 @@
 <h1 align="center"> CovidApiScript </h1>
-<h3 align="center">Script para carregar dados históricos ou os mais atualizados sobre o Coronavírus. O script traz dados globais mas permite que o usuário refine a pesquisa para encontrar dados de um país em específico</h3>
+<h3 align="center">Script to load historical or updated data about the spread of Coronavírus. The script brings global data but allows the user to refine the search to retrieve data about a specific country</h3>
 
 ###
 
-# Modo de uso 
- 1 - Clone este repositório
+# Usage
+ 1 - Clone this repository
  ```bash
  git clone https://github.com/GabrielTheophilo/CovidApiScript.git
  ```
 
- 2 - Abra a pasta clonada e entre no arquivo "apikey.py"
+ 2 - cd into cloned folder and edit "apikey.py"
  
- 3 - Crie uma conta no site RapidApi e gere um código de acesso [aqui](https://rapidapi.com/api-sports/api/covid-193/)
+ 3 - Create an account on RapidApi and generate an access code for this API [aqui](https://rapidapi.com/api-sports/api/covid-193/)
 
- 4 - Cole o código da API na linha
+ 4 - Insert your key on this variable
  ```bash
  ApiKey = "INSIRA SUA CHAVE AQUI"
  ```
- 5 - Abra seu terminal e execute
+ 5 - Return to the terminal and run
  ```bash
  python covidapisearch.py
  ```
 
- 6 - O script gerará um arquivo em texto(.txt) ou em json(.json) no seu desktop ou na pasta do seu script
+ 6 - The script will generate a text file(.txt) or a json(.json) no your desktop or script folder
 
- # Requisitos
- É necessário um interpretador de Python 3.x.x para rodar este arquivo
- (Um arquivo .exe será disponibilizado em breve para a comodidade dos usuários)
+ # Requirements
+ Python 3.x.x is necessary to run this script
 
-Tenha uma boa pesquisa, fique seguro e use máscara
+Be safe
